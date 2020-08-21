@@ -17,8 +17,8 @@ ruby app.rb
 
 Fonctionnement
 
-Récupère tous les données sur les monstres via le endpoint de dofapi.fr ap
-Filtre tous les données pour chaquer type de monstre
+Récupère tous les données sur les monstres via le endpoint de dofapi.fr après;
+Filtre tous les données pour chaquer type de monstre;
 Génère les fichiers JSON (monstre_larve.json , monstre_caverne.json, monstre_plaine_herbeuse.json)
 
 Contributeur 
